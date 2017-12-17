@@ -1,0 +1,21 @@
+[submodule "command-t"]
+	path = command-t
+	url = https://github.com/wincent/command-t.git
+[submodule "vim-ruby"]
+	path = vim-ruby
+	url = git://github.com/vim-ruby/vim-ruby.git
+[submodule "vim-rspec"]
+	path = vim-rspec
+	url = git@github.com:thoughtbot/vim-rspec.git
+[submodule "vim-markdown"]
+	path = vim-markdown
+	url = https://github.com/plasticboy/vim-markdown.git
+[submodule "vim-autoclose"]
+	path = vim-autoclose
+	url = git@github.com:Townk/vim-autoclose.git
+[submodule "vim-dispatch"]
+	path = vim-dispatch
+	url = git://github.com/tpope/vim-dispatch.git
+[submodule "ack.vim"]
+	path = ack.vim
+	url = https://github.com/mileszs/ack.vim.git
