@@ -7,6 +7,9 @@
     ln -s ~/vim-plugins/autoload autoload
     ln -s ~/vim-plugins/bundle bundle
 
+## Adding a submodule
+
+    git submodule add $GIT_URL bundle/$PACKAGE_NAME
 
 ## Command-T installation
 
